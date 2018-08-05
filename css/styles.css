@@ -29,3 +29,12 @@ h2 {
   width: 350px;
   float: right;
 }
+image {
+  float: left;
+}
+.last-column {
+  line-height: 50px;
+  font-size: 18px;
+  width: 400px;
+  margin: 0 auto;
+}
