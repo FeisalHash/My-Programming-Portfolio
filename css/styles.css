@@ -38,3 +38,9 @@ image {
   width: 400px;
   margin: 0 auto;
 }
+.hobbies {
+  line-height: 50px;
+  font-size: 18px;
+  width: 400px;
+  float: right;
+}
