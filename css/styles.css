@@ -10,6 +10,7 @@ h1 {
 h2 {
   color: blue;
   text-align: center;
+  border: 2px solid blue;
 }
 .first-column {
   line-height: 50px;
