@@ -2,3 +2,30 @@ h1 {
   color: green;
   text-align: center;
 }
+.main-heading {
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+}
+h2 {
+  color: blue;
+  text-align: center;
+}
+.first-column {
+  line-height: 50px;
+  font-size: 24px;
+  width: 350px;
+  float: left;
+}
+.second-column {
+  line-height: 50px;
+  font-size: 24px;
+  width: 400px;
+  margin: 0 auto;
+}
+.third-column {
+  line-height: 50px;
+  font-size: 24px;
+  width: 350px;
+  float: right;
+}
