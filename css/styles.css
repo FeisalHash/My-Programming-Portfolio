@@ -41,11 +41,11 @@ image {
   line-height: 50px;
   font-size: 18px;
   width: 400px;
-  margin: 0 auto;
+  float: left;
 }
 .hobbies {
   line-height: 50px;
   font-size: 18px;
   width: 400px;
-  float: right;
+  float: left;
 }
